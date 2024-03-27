@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     private class SentimentAnalysisTask extends AsyncTask<String, Void, JSONObject> {
 
-        private static final String API_KEY = "eH2ZPTlGFXBV8r7MAQ1vapQ4fQ0xFAIO";
+        private static final String API_KEY = "QMzsk8smVZvvg5AKOuLqGm9RBTsfkPBS";
         private static final String API_URL = "https://api.apilayer.com/sentiment/analysis";
 
         @Override
